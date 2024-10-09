@@ -24,6 +24,8 @@ int32_t capitalize_ascii(char str[]){
         }
     }
     return numCap;
+
+
     
 }
 
@@ -37,7 +39,7 @@ printf("Is 🔥 ASCII? %d\n", is_ascii("🔥"));
 
 printf("Is abcd ASCII? %d\n", is_ascii("abcd"));
 
-printf("Is ")
+
 
 int32_t ret = 0;
 char str[] = "abcd";
